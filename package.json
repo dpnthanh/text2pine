@@ -1,5 +1,5 @@
 {
-  "name": "text2pine",
+  "name": "@dpnthanh/text2pine",
   "version": "1.0.0",
   "description": "just text, and I will send you a pine",
   "main": "index.js",
