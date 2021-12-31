@@ -1,0 +1,19 @@
+{
+  "name": "text2pine",
+  "version": "1.0.0",
+  "description": "just text, and I will send you a pine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dpnthanh/text2pine.git"
+  },
+  "author": "dpnthanh@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpnthanh/text2pine/issues"
+  },
+  "homepage": "https://github.com/dpnthanh/text2pine#readme"
+}
