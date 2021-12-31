@@ -3,13 +3,13 @@
 ## Install
 
 ```
-npm install dpnthanh@text2pine
+npm i text2pine
 ```
 
 ## Use
 
 ```
-const text2pine = require('dpnthanh@text2pine')
+const text2pine = require('text2pine')
 
 console.log(text2pine('qwertyuiopasdfghjklzxcvbnm'))
 ```
